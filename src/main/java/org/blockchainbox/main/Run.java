@@ -1,4 +1,4 @@
-package com.mapr.examples;
+package org.blockchainbox.main;
 
 import java.io.IOException;
 
